@@ -1,3 +1,14 @@
+input:focus {
+    outline: none;
+}
+
+#eliminarcruz {
+    display: none;
+}
+
+#cruz:hover #eliminarcruz {
+    display: block;
+}
 
 /* 
 
